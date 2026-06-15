@@ -36,3 +36,6 @@ jobs:
 
       - name: Run Forge tests
         run: forge test -vvv
+
+      - name: Run tests
+        run: FOUNDRY_PROFILE=test forge test -vvv
