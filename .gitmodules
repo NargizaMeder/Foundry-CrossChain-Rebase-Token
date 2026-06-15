@@ -10,9 +10,9 @@
 [submodule "lib/openzeppelin-contracts-4.8.3"]
 	path = lib/openzeppelin-contracts-4.8.3
 	url = https://github.com/openzeppelin/openzeppelin-contracts
-[submodule "lib/chainlink-contracts"]
-	path = lib/chainlink-contracts
-	url = https://github.com/smartcontractkit/chainlink-contracts
+[submodule "lib/chainlink-ccip"]
+	path = lib/chainlink-ccip
+	url = https://github.com/smartcontractkit/chainlink-ccip
 [submodule "lib/openzeppelin-contracts-5.6.1"]
 	path = lib/openzeppelin-contracts-5.6.1
 	url = https://github.com/openzeppelin/openzeppelin-contracts
